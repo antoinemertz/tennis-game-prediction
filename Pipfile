@@ -11,6 +11,8 @@ scikit-learn = "*"
 tensorflow = "*"
 numpy = "*"
 pandas = "*"
+matplotlib = "*"
+seaborn = "*"
 
 [requires]
 python_version = "3.7"
